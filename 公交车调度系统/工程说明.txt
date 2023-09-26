@@ -1,0 +1,4 @@
+开发语言：c++
+GUI库：easyx绘图库，下载地址：https://easyx.cn
+开发环境：Dev-c++ 5.11
+特别说明：Dev-c++运行时要先安装easyx库，且在项目属性-参数-链接中加入-leasyx -lgdi32 -lole32
